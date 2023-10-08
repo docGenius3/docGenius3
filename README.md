@@ -47,3 +47,26 @@ p {
   </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boards Page</title>
+  <link rel="stylesheet" href="main.css"> <!-- Link to your CSS stylesheet -->
+</head>
+<body>
+  <header>
+    <h1>Welcome to the Boards Page</h1>
+  </header>
+  <nav>
+    <!-- Navigation content -->
+  </nav>
+  <main>
+    <!-- Main content -->
+  </main>
+  <footer>
+    <!-- Footer content -->
+  </footer>
+</body>
+</html>
